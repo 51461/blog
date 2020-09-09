@@ -3,11 +3,11 @@
   <title>菜鸡不配听歌</title>
   
   <subtitle>菜鸡51461的博客</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://51461.github.io/blog/"/>
   <updated>2019-07-30T03:06:26.932Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://51461.github.io/blog/</id>
   
   <author>
     <name>ボ</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>存储过程</title>
-    <link href="http://yoursite.com/2019/07/30/cunchu/"/>
-    <id>http://yoursite.com/2019/07/30/cunchu/</id>
+    <link href="https://51461.github.io/blog/2019/07/30/cunchu/"/>
+    <id>https://51461.github.io/blog/2019/07/30/cunchu/</id>
     <published>2019-07-30T02:31:00.000Z</published>
     <updated>2019-07-30T03:06:26.932Z</updated>
     
@@ -34,19 +34,19 @@
     
     </summary>
     
-      <category term="数据库" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+      <category term="数据库" scheme="https://51461.github.io/blog/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
     
-      <category term="存储过程" scheme="http://yoursite.com/tags/%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B/"/>
+      <category term="存储过程" scheme="https://51461.github.io/blog/tags/%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B/"/>
     
-      <category term="数据库" scheme="http://yoursite.com/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+      <category term="数据库" scheme="https://51461.github.io/blog/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
   </entry>
   
   <entry>
     <title>linux集群环境</title>
-    <link href="http://yoursite.com/2019/07/03/java02/"/>
-    <id>http://yoursite.com/2019/07/03/java02/</id>
+    <link href="https://51461.github.io/blog/2019/07/03/java02/"/>
+    <id>https://51461.github.io/blog/2019/07/03/java02/</id>
     <published>2019-07-03T07:50:48.000Z</published>
     <updated>2019-07-08T12:07:58.000Z</updated>
     
@@ -62,19 +62,19 @@
     
     </summary>
     
-      <category term="linux" scheme="http://yoursite.com/categories/linux/"/>
+      <category term="linux" scheme="https://51461.github.io/blog/categories/linux/"/>
     
     
-      <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
+      <category term="linux" scheme="https://51461.github.io/blog/tags/linux/"/>
     
-      <category term="集群" scheme="http://yoursite.com/tags/%E9%9B%86%E7%BE%A4/"/>
+      <category term="集群" scheme="https://51461.github.io/blog/tags/%E9%9B%86%E7%BE%A4/"/>
     
   </entry>
   
   <entry>
     <title>六大设计原则</title>
-    <link href="http://yoursite.com/2019/07/01/liudayuanze/"/>
-    <id>http://yoursite.com/2019/07/01/liudayuanze/</id>
+    <link href="https://51461.github.io/blog/2019/07/01/liudayuanze/"/>
+    <id>https://51461.github.io/blog/2019/07/01/liudayuanze/</id>
     <published>2019-07-01T08:12:20.000Z</published>
     <updated>2019-07-03T07:27:04.000Z</updated>
     
@@ -89,19 +89,19 @@
     
     </summary>
     
-      <category term="设计模式" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="设计模式" scheme="https://51461.github.io/blog/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
     
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+      <category term="java" scheme="https://51461.github.io/blog/tags/java/"/>
     
-      <category term="设计模式" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="设计模式" scheme="https://51461.github.io/blog/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>常用的算法思想——2</title>
-    <link href="http://yoursite.com/2019/06/29/suanfan002/"/>
-    <id>http://yoursite.com/2019/06/29/suanfan002/</id>
+    <link href="https://51461.github.io/blog/2019/06/29/suanfan002/"/>
+    <id>https://51461.github.io/blog/2019/06/29/suanfan002/</id>
     <published>2019-06-29T12:39:04.000Z</published>
     <updated>2019-06-29T13:25:52.000Z</updated>
     
@@ -116,19 +116,19 @@
     
     </summary>
     
-      <category term="算法" scheme="http://yoursite.com/categories/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="https://51461.github.io/blog/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+      <category term="java" scheme="https://51461.github.io/blog/tags/java/"/>
     
-      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="https://51461.github.io/blog/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>设计模式</title>
-    <link href="http://yoursite.com/2019/06/29/shejimoshi/"/>
-    <id>http://yoursite.com/2019/06/29/shejimoshi/</id>
+    <link href="https://51461.github.io/blog/2019/06/29/shejimoshi/"/>
+    <id>https://51461.github.io/blog/2019/06/29/shejimoshi/</id>
     <published>2019-06-29T12:04:56.000Z</published>
     <updated>2019-07-01T08:13:26.000Z</updated>
     
@@ -144,19 +144,19 @@
     
     </summary>
     
-      <category term="设计模式" scheme="http://yoursite.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="设计模式" scheme="https://51461.github.io/blog/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
     
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+      <category term="java" scheme="https://51461.github.io/blog/tags/java/"/>
     
-      <category term="设计模式" scheme="http://yoursite.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+      <category term="设计模式" scheme="https://51461.github.io/blog/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>Git常用密令</title>
-    <link href="http://yoursite.com/2019/06/29/git/"/>
-    <id>http://yoursite.com/2019/06/29/git/</id>
+    <link href="https://51461.github.io/blog/2019/06/29/git/"/>
+    <id>https://51461.github.io/blog/2019/06/29/git/</id>
     <published>2019-06-29T11:06:02.000Z</published>
     <updated>2019-07-01T05:30:32.000Z</updated>
     
@@ -172,17 +172,17 @@
     
     </summary>
     
-      <category term="Git" scheme="http://yoursite.com/categories/Git/"/>
+      <category term="Git" scheme="https://51461.github.io/blog/categories/Git/"/>
     
     
-      <category term="Git" scheme="http://yoursite.com/tags/Git/"/>
+      <category term="Git" scheme="https://51461.github.io/blog/tags/Git/"/>
     
   </entry>
   
   <entry>
     <title>jvm&amp;GC基础</title>
-    <link href="http://yoursite.com/2019/06/29/jvm/"/>
-    <id>http://yoursite.com/2019/06/29/jvm/</id>
+    <link href="https://51461.github.io/blog/2019/06/29/jvm/"/>
+    <id>https://51461.github.io/blog/2019/06/29/jvm/</id>
     <published>2019-06-29T08:08:30.000Z</published>
     <updated>2019-06-29T11:02:44.000Z</updated>
     
@@ -198,19 +198,19 @@
     
     </summary>
     
-      <category term="JVM" scheme="http://yoursite.com/categories/JVM/"/>
+      <category term="JVM" scheme="https://51461.github.io/blog/categories/JVM/"/>
     
     
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+      <category term="java" scheme="https://51461.github.io/blog/tags/java/"/>
     
-      <category term="JVM" scheme="http://yoursite.com/tags/JVM/"/>
+      <category term="JVM" scheme="https://51461.github.io/blog/tags/JVM/"/>
     
   </entry>
   
   <entry>
     <title>注册中心——zookeeper</title>
-    <link href="http://yoursite.com/2019/06/26/zookeeper/"/>
-    <id>http://yoursite.com/2019/06/26/zookeeper/</id>
+    <link href="https://51461.github.io/blog/2019/06/26/zookeeper/"/>
+    <id>https://51461.github.io/blog/2019/06/26/zookeeper/</id>
     <published>2019-06-26T12:07:46.000Z</published>
     <updated>2019-06-27T13:03:34.000Z</updated>
     
@@ -225,19 +225,19 @@
     
     </summary>
     
-      <category term="微服务" scheme="http://yoursite.com/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+      <category term="微服务" scheme="https://51461.github.io/blog/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
     
     
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+      <category term="java" scheme="https://51461.github.io/blog/tags/java/"/>
     
-      <category term="分布式" scheme="http://yoursite.com/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
+      <category term="分布式" scheme="https://51461.github.io/blog/tags/%E5%88%86%E5%B8%83%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>redis常用命令</title>
-    <link href="http://yoursite.com/2019/06/24/redis02/"/>
-    <id>http://yoursite.com/2019/06/24/redis02/</id>
+    <link href="https://51461.github.io/blog/2019/06/24/redis02/"/>
+    <id>https://51461.github.io/blog/2019/06/24/redis02/</id>
     <published>2019-06-24T10:40:55.000Z</published>
     <updated>2019-06-24T10:47:12.000Z</updated>
     
@@ -257,21 +257,21 @@
     
     </summary>
     
-      <category term="redis" scheme="http://yoursite.com/categories/redis/"/>
+      <category term="redis" scheme="https://51461.github.io/blog/categories/redis/"/>
     
     
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+      <category term="java" scheme="https://51461.github.io/blog/tags/java/"/>
     
-      <category term="redis" scheme="http://yoursite.com/tags/redis/"/>
+      <category term="redis" scheme="https://51461.github.io/blog/tags/redis/"/>
     
-      <category term="指令" scheme="http://yoursite.com/tags/%E6%8C%87%E4%BB%A4/"/>
+      <category term="指令" scheme="https://51461.github.io/blog/tags/%E6%8C%87%E4%BB%A4/"/>
     
   </entry>
   
   <entry>
     <title>Redis</title>
-    <link href="http://yoursite.com/2019/06/24/redis/"/>
-    <id>http://yoursite.com/2019/06/24/redis/</id>
+    <link href="https://51461.github.io/blog/2019/06/24/redis/"/>
+    <id>https://51461.github.io/blog/2019/06/24/redis/</id>
     <published>2019-06-24T10:39:31.000Z</published>
     <updated>2019-06-25T00:32:08.000Z</updated>
     
@@ -286,19 +286,19 @@
     
     </summary>
     
-      <category term="redis" scheme="http://yoursite.com/categories/redis/"/>
+      <category term="redis" scheme="https://51461.github.io/blog/categories/redis/"/>
     
     
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+      <category term="java" scheme="https://51461.github.io/blog/tags/java/"/>
     
-      <category term="redis" scheme="http://yoursite.com/tags/redis/"/>
+      <category term="redis" scheme="https://51461.github.io/blog/tags/redis/"/>
     
   </entry>
   
   <entry>
     <title>微服务基础</title>
-    <link href="http://yoursite.com/2019/06/24/weifuwu/"/>
-    <id>http://yoursite.com/2019/06/24/weifuwu/</id>
+    <link href="https://51461.github.io/blog/2019/06/24/weifuwu/"/>
+    <id>https://51461.github.io/blog/2019/06/24/weifuwu/</id>
     <published>2019-06-24T06:08:53.000Z</published>
     <updated>2019-06-24T10:32:52.000Z</updated>
     
@@ -313,19 +313,19 @@
     
     </summary>
     
-      <category term="微服务" scheme="http://yoursite.com/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+      <category term="微服务" scheme="https://51461.github.io/blog/categories/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
     
     
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+      <category term="java" scheme="https://51461.github.io/blog/tags/java/"/>
     
-      <category term="微服务" scheme="http://yoursite.com/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+      <category term="微服务" scheme="https://51461.github.io/blog/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
     
   </entry>
   
   <entry>
     <title>常用的算法思想——1</title>
-    <link href="http://yoursite.com/2019/06/23/suanfa/"/>
-    <id>http://yoursite.com/2019/06/23/suanfa/</id>
+    <link href="https://51461.github.io/blog/2019/06/23/suanfa/"/>
+    <id>https://51461.github.io/blog/2019/06/23/suanfa/</id>
     <published>2019-06-23T09:43:12.000Z</published>
     <updated>2019-06-29T13:47:58.000Z</updated>
     
@@ -340,19 +340,19 @@
     
     </summary>
     
-      <category term="算法" scheme="http://yoursite.com/categories/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="https://51461.github.io/blog/categories/%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+      <category term="java" scheme="https://51461.github.io/blog/tags/java/"/>
     
-      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="https://51461.github.io/blog/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   
   <entry>
     <title>java基础知识</title>
-    <link href="http://yoursite.com/2019/06/22/java01/"/>
-    <id>http://yoursite.com/2019/06/22/java01/</id>
+    <link href="https://51461.github.io/blog/2019/06/22/java01/"/>
+    <id>https://51461.github.io/blog/2019/06/22/java01/</id>
     <published>2019-06-22T09:48:24.000Z</published>
     <updated>2019-06-23T08:34:10.000Z</updated>
     
@@ -367,19 +367,19 @@
     
     </summary>
     
-      <category term="java" scheme="http://yoursite.com/categories/java/"/>
+      <category term="java" scheme="https://51461.github.io/blog/categories/java/"/>
     
     
-      <category term="java" scheme="http://yoursite.com/tags/java/"/>
+      <category term="java" scheme="https://51461.github.io/blog/tags/java/"/>
     
-      <category term="基础" scheme="http://yoursite.com/tags/%E5%9F%BA%E7%A1%80/"/>
+      <category term="基础" scheme="https://51461.github.io/blog/tags/%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
   <entry>
     <title>学go第三天</title>
-    <link href="http://yoursite.com/2019/06/18/go3/"/>
-    <id>http://yoursite.com/2019/06/18/go3/</id>
+    <link href="https://51461.github.io/blog/2019/06/18/go3/"/>
+    <id>https://51461.github.io/blog/2019/06/18/go3/</id>
     <published>2019-06-18T04:32:13.000Z</published>
     <updated>2019-06-19T00:30:28.000Z</updated>
     
@@ -394,17 +394,17 @@
     
     </summary>
     
-      <category term="go" scheme="http://yoursite.com/categories/go/"/>
+      <category term="go" scheme="https://51461.github.io/blog/categories/go/"/>
     
     
-      <category term="-go" scheme="http://yoursite.com/tags/go/"/>
+      <category term="-go" scheme="https://51461.github.io/blog/tags/go/"/>
     
   </entry>
   
   <entry>
     <title>学go第二天</title>
-    <link href="http://yoursite.com/2019/06/17/go2/"/>
-    <id>http://yoursite.com/2019/06/17/go2/</id>
+    <link href="https://51461.github.io/blog/2019/06/17/go2/"/>
+    <id>https://51461.github.io/blog/2019/06/17/go2/</id>
     <published>2019-06-17T10:22:07.000Z</published>
     <updated>2019-06-18T10:35:36.000Z</updated>
     
@@ -419,17 +419,17 @@
     
     </summary>
     
-      <category term="go" scheme="http://yoursite.com/categories/go/"/>
+      <category term="go" scheme="https://51461.github.io/blog/categories/go/"/>
     
     
-      <category term="-go" scheme="http://yoursite.com/tags/go/"/>
+      <category term="-go" scheme="https://51461.github.io/blog/tags/go/"/>
     
   </entry>
   
   <entry>
     <title>学go第一天</title>
-    <link href="http://yoursite.com/2019/06/16/go1/"/>
-    <id>http://yoursite.com/2019/06/16/go1/</id>
+    <link href="https://51461.github.io/blog/2019/06/16/go1/"/>
+    <id>https://51461.github.io/blog/2019/06/16/go1/</id>
     <published>2019-06-16T09:10:58.000Z</published>
     <updated>2019-06-18T10:34:52.000Z</updated>
     
@@ -444,17 +444,17 @@
     
     </summary>
     
-      <category term="go" scheme="http://yoursite.com/categories/go/"/>
+      <category term="go" scheme="https://51461.github.io/blog/categories/go/"/>
     
     
-      <category term="-go" scheme="http://yoursite.com/tags/go/"/>
+      <category term="-go" scheme="https://51461.github.io/blog/tags/go/"/>
     
   </entry>
   
   <entry>
     <title>第一篇文章</title>
-    <link href="http://yoursite.com/2019/06/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2019/06/15/第一篇文章/</id>
+    <link href="https://51461.github.io/blog/2019/06/15/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>https://51461.github.io/blog/2019/06/15/第一篇文章/</id>
     <published>2019-06-15T07:52:26.000Z</published>
     <updated>2019-06-18T04:38:46.000Z</updated>
     
@@ -471,14 +471,14 @@
     </summary>
     
     
-      <category term="-测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+      <category term="-测试" scheme="https://51461.github.io/blog/tags/%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/06/15/hello-world/"/>
-    <id>http://yoursite.com/2019/06/15/hello-world/</id>
+    <link href="https://51461.github.io/blog/2019/06/15/hello-world/"/>
+    <id>https://51461.github.io/blog/2019/06/15/hello-world/</id>
     <published>2019-06-15T02:53:50.000Z</published>
     <updated>2019-06-15T02:53:50.000Z</updated>
     
@@ -495,8 +495,8 @@
   
   <entry>
     <title>Hello-world</title>
-    <link href="http://yoursite.com/2019/06/15/Hello-world-0/"/>
-    <id>http://yoursite.com/2019/06/15/Hello-world-0/</id>
+    <link href="https://51461.github.io/blog/2019/06/15/Hello-world-0/"/>
+    <id>https://51461.github.io/blog/2019/06/15/Hello-world-0/</id>
     <published>2019-06-15T02:11:39.000Z</published>
     <updated>2019-06-18T04:38:06.000Z</updated>
     
@@ -511,12 +511,12 @@
     
     </summary>
     
-      <category term="前端" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF/"/>
+      <category term="前端" scheme="https://51461.github.io/blog/categories/%E5%89%8D%E7%AB%AF/"/>
     
     
-      <category term="导航" scheme="http://yoursite.com/tags/%E5%AF%BC%E8%88%AA/"/>
+      <category term="导航" scheme="https://51461.github.io/blog/tags/%E5%AF%BC%E8%88%AA/"/>
     
-      <category term="分享" scheme="http://yoursite.com/tags/%E5%88%86%E4%BA%AB/"/>
+      <category term="分享" scheme="https://51461.github.io/blog/tags/%E5%88%86%E4%BA%AB/"/>
     
   </entry>
   

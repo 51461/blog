@@ -2161,7 +2161,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5bc121;
+  background: #cc7811;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3735,7 +3735,7 @@ body {
         <div class="site-overview">
           <div class="site-author motion-element" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
             
-            <a href="/">
+            <a href="/blog/">
               <img class="site-author-image" itemprop="image" src="/blog/images/20190616154611.jpg" alt="ボ">
             </a>
             
@@ -3890,7 +3890,7 @@ body {
 
     <footer id="footer" class="footer">
       <div class="footer-inner">
-        <div class="copyright">© <span itemprop="copyrightYear">2020</span>
+        <div class="copyright">© <span itemprop="copyrightYear">2019-2020</span>
   <span class="with-love">
     <i class="fa fa-user"></i>
   </span>
@@ -3913,6 +3913,10 @@ body {
 
 
  -->
+<span id="timeDate"></span>
+<span id="times"></span>
+
+
 
 
         
@@ -3922,17 +3926,17 @@ body {
 
   
     <span class="site-uv">
-      本站访客数 <i class="fa fa-user"></i>
+      我的第 <i class="fa fa-user"></i>
       <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
-      人次
+      朋友
     </span>
   
 
   
     <span class="site-pv">
-      本站总访问量 <i class="fa fa-eye"></i>
+      历经 <i class="fa fa-eye"></i>
       <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
-      次
+      次回眸终与你相遇
     </span>
   
 </div>
@@ -4132,7 +4136,33 @@ body {
 
 
 
-<script type="text/javascript" src="/blog/bundle.js"></script><script type="text/javascript">if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+<script type="text/javascript" src="/blog/bundle.js"></script><script type="text/javascript">var now = new Date();
+    function createtime() {
+        var grt= new Date("12/12/2019 12:00:00");    //此处修改你的建站时间或者网站上线时间
+        now.setTime(now.getTime()+250);
+        days = (now - grt ) / 1000 / 60 / 60 / 24; 
+        dnum = Math.floor(days);
+        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); 
+        hnum = Math.floor(hours);
+        if(String(hnum).length ==1 )
+        {
+            hnum = "0" + hnum;
+        } 
+        minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+        mnum = Math.floor(minutes); if(String(mnum).length ==1 )
+        {
+            mnum = "0" + mnum;
+        }
+        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+        snum = Math.round(seconds); 
+        if(String(snum).length ==1 )
+        {
+            snum = "0" + snum;
+        }
+        document.getElementById("timeDate").innerHTML = "我已在此等候你 "+dnum+" 天 ";
+        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒    ";
+    }
+    setInterval("createtime()",250);;if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
     window.Promise = null;
   };(function(d, s) {
         var j, e = d.getElementsByTagName(s)[0];

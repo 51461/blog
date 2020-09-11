@@ -2165,7 +2165,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #cc7811;
+  background: #574f78;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3490,7 +3490,7 @@ pre .javascript .function {
   cursor: url("http://om8u46rmb.bkt.clouddn.com/sword1.ico"), auto !important;
 }
 body {
-  background-image: url("https://s2.ax1x.com/2019/06/21/ZSfAtH.png");
+  background-image: url("https://pic3.zhimg.com/80/v2-930684c425f5b5e09c988128f0d22e1d_1440w.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
@@ -3502,6 +3502,33 @@ body {
 }
 .header-inner {
   background: rgba(255,255,255,0.7) !important;
+}
+.footer {
+  font-size: 14px;
+  color: #ff5400;
+  font-weight: bold;
+}
+.busuanzi-value {
+  color: #0f0;
+}
+#busuanzi-value {
+  color: #0f0;
+}
+.back-to-top {
+  right: 60px;
+  width: 70px;
+  height: 900px;
+  top: -900px;
+  bottom: unset;
+  transition: all 0.5s ease-in-out;
+  background: url("/blog/images/scroll.png");
+}
+.back-to-top > i {
+  display: none;
+}
+.back-to-top.back-to-top-on {
+  bottom: unset;
+  top: calc(100vh - 900px - 200px);
 }</style></head>
 
 <body itemscope="" itemtype="http://schema.org/WebPage" lang="zh-Hans">
@@ -4432,11 +4459,11 @@ redis</a>
 
     <footer id="footer" class="footer">
       <div class="footer-inner">
-        <div class="copyright">© <span itemprop="copyrightYear">2019-2020</span>
+        <div class="copyright">© <span itemprop="copyrightYear" class="busuanzi-value">2019-2020</span>
   <span class="with-love">
     <i class="fa fa-user"></i>
   </span>
-  <span class="author" itemprop="copyrightHolder">ボ</span>
+  <span class="author" itemprop="copyrightHolder" id="busuanzi-value">ボ</span>
 
   
 </div>
@@ -4455,8 +4482,8 @@ redis</a>
 
 
  -->
-<span id="timeDate"></span>
-<span id="times"></span>
+<span id="timeDate">123</span>
+<span id="times">123</span>
 
 
 
@@ -4680,6 +4707,7 @@ redis</a>
 
 <script type="text/javascript" src="/blog/bundle.js"></script><script type="text/javascript">var now = new Date();
     function createtime() {
+        console.log("createtime")
         var grt= new Date("12/12/2019 12:00:00");    //此处修改你的建站时间或者网站上线时间
         now.setTime(now.getTime()+250);
         days = (now - grt ) / 1000 / 60 / 60 / 24; 
@@ -4701,8 +4729,8 @@ redis</a>
         {
             snum = "0" + snum;
         }
-        document.getElementById("timeDate").innerHTML = "我已在此等候你 "+dnum+" 天 ";
-        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒    ";
+        document.getElementById("timeDate").innerHTML = "我已在此等候你<span class='busuanzi-value'>"+dnum+"</span> 天 ";
+        document.getElementById("times").innerHTML = " <span class='busuanzi-value'>"+ hnum + "</span> 小时 <span class='busuanzi-value'>" + mnum + "</span> 分<span class='busuanzi-value'> " + snum + "</span> 秒 ";
     }
     setInterval("createtime()",250);;if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
     window.Promise = null;

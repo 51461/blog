@@ -86,7 +86,7 @@
     this.lifeSpan = 120; //ms
     this.initialStyles ={
       "position": "fixed",
-      "top": "0", //�����
+      "top": "0", 
       "display": "block",
       "pointerEvents": "none",
       "z-index": "10000000",
@@ -104,7 +104,6 @@
       
       this.position = {x: x - 10, y: y - 20};
       this.initialStyles.color = color;
-      console.log(color);
 
       this.element = document.createElement('span');
       this.element.innerHTML = this.character;
